@@ -1,4 +1,4 @@
-🚀 Uber Egypt – Full Strategic Rebuild & Product Innovation Case Study
+## 🚀 Uber Egypt – Full Strategic Rebuild & Product Innovation Case Study
 
 🧭 Why This Case Study Matters
 
@@ -8,8 +8,7 @@ The target? Egyptian university students – a demographic heavily underserved i
 
 ## 🧠 The Problem That Started It All
 
-We began by asking:  
-**Why did Uber even exist?**
+We began by asking:  **Why did Uber even exist?**
 
 The world faced an issue:  
 🚨 Transportation was **unreliable**, **costly**, and **not user-centered** in many cities.  
@@ -18,12 +17,20 @@ People were tired of:
 - Unfair pricing
 - Unsafe travel experiences
 
-💡 This led to Uber’s birth — a tech solution to reimagine urban mobility.
+💡 This led to Uber :- a tech solution to reimagine urban mobility.
 
----
+<img width="2000" height="1414" alt="Problem statement (uber)" src="https://github.com/user-attachments/assets/b34d48a8-1096-4173-86d0-d2bcf0730ddd" />
 
 
-## 🌍 Then We Asked: What Happens When Uber Enters Different Markets?
+
+## 💼 SWOT Analysis – Uber in Egypt
+
+To assess Uber’s strategic position in the Egyptian market, we conducted a full **SWOT analysis**:
+<img width="1024" height="768" alt="SWOT Analysis for uber(3)" src="https://github.com/user-attachments/assets/1ad90499-488c-4d61-8471-199ee307f7a0" />
+
+
+
+## 🌍 What Happens When Uber Enters Different Markets?
 
 We compared how Uber expanded in:
 - 🇺🇸 **USA**: Structured, premium-oriented, policy-flexible  
@@ -33,6 +40,8 @@ We analyzed:
 - Entry strategy
 - Market fit challenges
 - Local adaptations
+
+<img width="1920" height="1080" alt="GO TO MARKET uber(3)" src="https://github.com/user-attachments/assets/af8dc8da-a8a8-4c95-875f-78b0335d96d2" />
 
 
 
@@ -45,18 +54,14 @@ We mapped out:
 - Where frustration builds (e.g., price surprise, long waits, safety doubts
 
 
+<img width="1024" height="768" alt="Journey Map Graph" src="https://github.com/user-attachments/assets/ecb2a0d9-733b-43e2-b5f5-9ff20ea192d3" />
+
 
 
 ## 👤 Building the Persona
 
-We created a **realistic persona**:
-
-- A female university student in Cairo  
-- Limited budget, time-constrained  
-- Prioritizes **safety**, **predictability**, and **group options**
-
-
-
+To deeply understand our user’s daily life, needs, struggles, and decisions — so we can design a solution that truly fits her world, not just our assumptions
+<img width="1920" height="1080" alt="persoa(3)" src="https://github.com/user-attachments/assets/04000e85-c22b-4e6e-ac9e-33984b8e6369" />
 
 
 ## 📉 Identifying the Gaps
@@ -66,8 +71,8 @@ After mapping the journey & persona, we did a **Gap Analysis**:
 - No **group ride options**  
 - No **parental tracking features**  
 - No **subscription model** at all
-
-
+  
+![Gap Analysis](https://github.com/user-attachments/assets/eea57a1a-feca-4258-b07d-fdfc479d35f5)
 
 
 ## 🧪 Data Simulation – Bringing the Problem to Life
@@ -77,6 +82,7 @@ We wanted to **simulate real-world ride behavior**, so we:
 - Created datasets based on local ride patterns  
 - Analyzed KPIs like distance, peak hours, and car types  
 - Built a live dashboard for decision-making
+<img width="1199" height="799" alt="Dashboard" src="https://github.com/user-attachments/assets/45e9cf6c-21eb-4554-9b20-1ac6dca24db9" />
 
 
 ## 💡 The Innovation: Uber UniCard
@@ -85,11 +91,11 @@ We translated our research into a **concrete product idea**:
 🚍 **Uber UniCard** – A subscription model tailored to Egyptian students.
 
 It includes:
-- 🪪 Fixed weekly/monthly ride credits  
-- 👨‍👩‍👧 Parental ride monitoring  
-- 👯‍♀️ Group ride discounts with classmates  
-- 🚐 Shuttle-like fixed campus routes  
-- 🧾 Predictable pricing to reduce anxiety
+-  Fixed weekly/monthly ride credits  
+-  Parental ride monitoring  
+-  Group ride discounts with classmates  
+-  Shuttle-like fixed campus routes  
+-  Predictable pricing to reduce anxiety
 
 
 
@@ -114,7 +120,6 @@ We built a **Go-To-Market (GTM)** plan:
 
 ## 👩‍💻 Case Study By
 
-**Nada Mahmoud**  
+**Nada Mahmoud Elsayed**  
 Product Strategist | Data Analyst | Experience Thinker  
-📫 your.email@example.com  
 🔗 [GitHub] | [LinkedIn]
