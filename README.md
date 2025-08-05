@@ -25,7 +25,9 @@ People were tired of:
 
 ## 💼 SWOT Analysis – Uber in Egypt
 
-To assess Uber’s strategic position in the Egyptian market, we conducted a full **SWOT analysis**:
+To assess Uber’s strategic position in the Egyptian market, we conducted a full **SWOT analysis**
+
+
 <img width="1024" height="768" alt="SWOT Analysis for uber(3)" src="https://github.com/user-attachments/assets/1ad90499-488c-4d61-8471-199ee307f7a0" />
 
 
@@ -61,6 +63,8 @@ We mapped out:
 ## 👤 Building the Persona
 
 To deeply understand our user’s daily life, needs, struggles, and decisions — so we can design a solution that truly fits her world, not just our assumptions
+
+
 <img width="1920" height="1080" alt="persoa(3)" src="https://github.com/user-attachments/assets/04000e85-c22b-4e6e-ac9e-33984b8e6369" />
 
 
@@ -72,7 +76,8 @@ After mapping the journey & persona, we did a **Gap Analysis**:
 - No **parental tracking features**  
 - No **subscription model** at all
   
-![Gap Analysis](https://github.com/user-attachments/assets/eea57a1a-feca-4258-b07d-fdfc479d35f5)
+<img width="1053" height="863" alt="Gap_Analysis" src="https://github.com/user-attachments/assets/365c090b-b0b9-4ece-8e80-c529dc7ee7ca" />
+
 
 
 ## 🧪 Data Simulation – Bringing the Problem to Life
