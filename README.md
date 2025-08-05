@@ -123,8 +123,27 @@ We built a **Go-To-Market (GTM)** plan:
  We proposed a **product** that can truly make a difference
 
 
+
+## 🛠️ Tools & Technologies Used
+
+| Category            | Tools & Platforms                                 |
+|---------------------|---------------------------------------------------|
+| **Data Cleaning**   | Python (Pandas, Matplotlib), Google Colab         |
+| **Data Simulation** | CSV datasets   |
+| **Dashboarding**    | Tableau Public, Custom KPI Mapping                |
+| **Design Thinking** | Empathy Maps, Customer Journey Mapping            |
+| **Persona Building**| Miro                      |
+| **Documentation**   |  Canva                    |
+| **Strategic Models**| SWOT, Gap Analysis, Go-To-Market Strategy         |
+
+> This project combined data science, UX, and business strategy in a unified product-thinking workflow.
+
+
 ## 👩‍💻 Case Study By
 
 **Nada Mahmoud Elsayed**  
 Product Strategist | Data Analyst | Experience Thinker  
-🔗 [GitHub] | [LinkedIn]
+
+🔗 - [GitHub](https://github.com/nadamahmoud00)
+🔗 - [LinkedIn](www.linkedin.com/in/nada-mahmoud-66ab58262)  
+🔗 - [Email](nadamahmoud7896@gmail.com)
