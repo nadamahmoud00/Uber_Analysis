@@ -143,4 +143,6 @@ We built a **Go-To-Market (GTM)** plan:
 
 **Nada Mahmoud Elsayed**  
 Product Strategist | Data Analyst | Experience Thinker  
+[GitHub](https://github.com/nadamahmoud00)  
+[Linkedin](https://www.linkedin.com/in/nada-mahmoud-66ab58262/)
 
